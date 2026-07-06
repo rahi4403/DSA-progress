@@ -29,6 +29,7 @@ My everyday progress of DSA in c++
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -48,5 +49,6 @@ My everyday progress of DSA in c++
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
