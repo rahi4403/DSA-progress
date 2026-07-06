@@ -7,6 +7,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0007-reverse-integer](https://github.com/rahi4403/DSA-progress/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -58,4 +59,12 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
