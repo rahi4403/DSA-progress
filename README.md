@@ -29,4 +29,12 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
