@@ -29,6 +29,7 @@ My everyday progress of DSA in c++
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
@@ -44,4 +45,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
