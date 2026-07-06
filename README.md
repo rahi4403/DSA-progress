@@ -21,4 +21,12 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rahi4403/DSA-progress/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
+## String
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
