@@ -48,6 +48,7 @@ My everyday progress of DSA in c++
 | [0001-two-sum](https://github.com/rahi4403/DSA-progress/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,4 +75,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
