@@ -52,6 +52,7 @@ My everyday progress of DSA in c++
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,8 +86,14 @@ My everyday progress of DSA in c++
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
+## Greedy
+|  |
+| ------- |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
