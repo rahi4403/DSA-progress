@@ -96,4 +96,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rahi4403/DSA-progress/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
