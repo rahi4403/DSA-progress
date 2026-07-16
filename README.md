@@ -50,6 +50,7 @@ My everyday progress of DSA in c++
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/rahi4403/DSA-progress/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -70,6 +71,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/rahi4403/DSA-progress/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 ## Stack
 |  |
