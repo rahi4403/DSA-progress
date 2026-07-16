@@ -49,6 +49,7 @@ My everyday progress of DSA in c++
 | [0001-two-sum](https://github.com/rahi4403/DSA-progress/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,6 +68,7 @@ My everyday progress of DSA in c++
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 ## Stack
@@ -94,6 +96,7 @@ My everyday progress of DSA in c++
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
