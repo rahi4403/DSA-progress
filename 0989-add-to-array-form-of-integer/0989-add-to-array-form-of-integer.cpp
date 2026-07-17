@@ -1,13 +1,5 @@
 class Solution {
 public:
-vector<int> reverse(vector<int>& v){
-    int s=0;
-    int e=v.size()-1;
-    while(s<e){
-        swap(v[s++],v[e--]);
-    }
-    return v;
-}
     vector<int> addToArrayForm(vector<int>& num, int k) {
         vector<int> ans;
         int i=num.size()-1; //we start adding from last since we need to carry 
@@ -36,7 +28,7 @@ vector<int> reverse(vector<int>& v){
             sum=sum%10;
             ans.push_back(sum);
         }
-        reverse(ans);
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
