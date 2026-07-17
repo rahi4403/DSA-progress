@@ -13,6 +13,7 @@ My everyday progress of DSA in c++
 | [0326-power-of-three](https://github.com/rahi4403/DSA-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
+| [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My everyday progress of DSA in c++
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahi4403/DSA-progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
