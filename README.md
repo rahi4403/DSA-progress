@@ -68,6 +68,7 @@ My everyday progress of DSA in c++
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
@@ -85,6 +86,7 @@ My everyday progress of DSA in c++
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +108,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rahi4403/DSA-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
