@@ -9,6 +9,7 @@ My everyday progress of DSA in c++
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rahi4403/DSA-progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rahi4403/DSA-progress/tree/master/0326-power-of-three) |
@@ -63,6 +64,7 @@ My everyday progress of DSA in c++
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rahi4403/DSA-progress/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
@@ -113,6 +115,7 @@ My everyday progress of DSA in c++
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -165,4 +168,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rahi4403/DSA-progress/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
