@@ -73,6 +73,7 @@ My everyday progress of DSA in c++
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
@@ -102,6 +103,7 @@ My everyday progress of DSA in c++
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rahi4403/DSA-progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rahi4403/DSA-progress/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
