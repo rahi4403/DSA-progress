@@ -40,6 +40,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0001-two-sum](https://github.com/rahi4403/DSA-progress/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/rahi4403/DSA-progress/tree/master/0567-permutation-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -65,6 +66,7 @@ My everyday progress of DSA in c++
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rahi4403/DSA-progress/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
@@ -133,6 +135,7 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
