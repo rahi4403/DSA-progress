@@ -16,6 +16,7 @@ My everyday progress of DSA in c++
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ My everyday progress of DSA in c++
 | [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rahi4403/DSA-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahi4403/DSA-progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
