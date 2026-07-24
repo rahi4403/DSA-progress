@@ -76,6 +76,7 @@ My everyday progress of DSA in c++
 | [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/rahi4403/DSA-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahi4403/DSA-progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rahi4403/DSA-progress/tree/master/1929-concatenation-of-array) |
@@ -172,6 +173,7 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/rahi4403/DSA-progress/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
