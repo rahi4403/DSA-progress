@@ -20,6 +20,7 @@ My everyday progress of DSA in c++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rahi4403/DSA-progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
@@ -65,6 +66,7 @@ My everyday progress of DSA in c++
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
