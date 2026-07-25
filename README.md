@@ -12,6 +12,7 @@ My everyday progress of DSA in c++
 | [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rahi4403/DSA-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
@@ -23,6 +24,7 @@ My everyday progress of DSA in c++
 | [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rahi4403/DSA-progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/rahi4403/DSA-progress/tree/master/1009-complement-of-base-10-integer) |
@@ -43,6 +45,7 @@ My everyday progress of DSA in c++
 | [0001-two-sum](https://github.com/rahi4403/DSA-progress/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/rahi4403/DSA-progress/tree/master/0567-permutation-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -71,6 +74,7 @@ My everyday progress of DSA in c++
 | [0204-count-primes](https://github.com/rahi4403/DSA-progress/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahi4403/DSA-progress/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
@@ -136,6 +140,7 @@ My everyday progress of DSA in c++
 | [0069-sqrtx](https://github.com/rahi4403/DSA-progress/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -147,6 +152,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahi4403/DSA-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
