@@ -63,6 +63,7 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahi4403/DSA-progress/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@ My everyday progress of DSA in c++
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
