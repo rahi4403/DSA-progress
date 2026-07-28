@@ -18,6 +18,7 @@ My everyday progress of DSA in c++
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2469-convert-the-temperature](https://github.com/rahi4403/DSA-progress/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
