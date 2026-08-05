@@ -20,6 +20,7 @@ My everyday progress of DSA in c++
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rahi4403/DSA-progress/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rahi4403/DSA-progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
