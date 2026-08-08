@@ -6,6 +6,7 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rahi4403/DSA-progress/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/rahi4403/DSA-progress/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rahi4403/DSA-progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ My everyday progress of DSA in c++
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rahi4403/DSA-progress/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rahi4403/DSA-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
