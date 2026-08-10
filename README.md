@@ -26,6 +26,7 @@ My everyday progress of DSA in c++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rahi4403/DSA-progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
@@ -77,6 +78,7 @@ My everyday progress of DSA in c++
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahi4403/DSA-progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
@@ -107,6 +109,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
