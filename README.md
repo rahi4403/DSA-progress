@@ -17,6 +17,7 @@ My everyday progress of DSA in c++
 | [0326-power-of-three](https://github.com/rahi4403/DSA-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/rahi4403/DSA-progress/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rahi4403/DSA-progress/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@ My everyday progress of DSA in c++
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/rahi4403/DSA-progress/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/rahi4403/DSA-progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rahi4403/DSA-progress/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahi4403/DSA-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -147,6 +149,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rahi4403/DSA-progress/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rahi4403/DSA-progress/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rahi4403/DSA-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/rahi4403/DSA-progress/tree/master/1920-build-array-from-permutation) |
