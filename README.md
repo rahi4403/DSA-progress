@@ -78,6 +78,7 @@ My everyday progress of DSA in c++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahi4403/DSA-progress/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/rahi4403/DSA-progress/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
@@ -113,6 +114,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahi4403/DSA-progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/rahi4403/DSA-progress/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 ## Matrix
