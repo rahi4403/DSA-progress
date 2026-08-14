@@ -63,6 +63,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahi4403/DSA-progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rahi4403/DSA-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahi4403/DSA-progress/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rahi4403/DSA-progress/tree/master/0412-fizz-buzz) |
@@ -84,6 +85,7 @@ My everyday progress of DSA in c++
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahi4403/DSA-progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
@@ -117,12 +119,14 @@ My everyday progress of DSA in c++
 | [0046-permutations](https://github.com/rahi4403/DSA-progress/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahi4403/DSA-progress/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -228,4 +232,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rahi4403/DSA-progress/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
