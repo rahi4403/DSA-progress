@@ -34,6 +34,7 @@ My everyday progress of DSA in c++
 | [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
+| [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/rahi4403/DSA-progress/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ My everyday progress of DSA in c++
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/rahi4403/DSA-progress/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,6 +122,7 @@ My everyday progress of DSA in c++
 | [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +132,7 @@ My everyday progress of DSA in c++
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,4 +240,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
