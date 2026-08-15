@@ -59,7 +59,7 @@ public:
             }
         }
         vector<vector<int>> visited(grid.size(), vector<int>(grid[0].size(), 0)); //to create a 2d array of same size as grid
-        Solve(grid, ans, srcx, srcy, visited, count);
+        Solve(grid, ans, srcx, srcy, visited, count);//then it recursively calls again
         return ans;
     }
 };
