@@ -105,6 +105,7 @@ My everyday progress of DSA in c++
 | [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahi4403/DSA-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1219-path-with-maximum-gold](https://github.com/rahi4403/DSA-progress/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rahi4403/DSA-progress/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rahi4403/DSA-progress/tree/master/1480-running-sum-of-1d-array) |
@@ -123,6 +124,7 @@ My everyday progress of DSA in c++
 | [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/rahi4403/DSA-progress/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +135,7 @@ My everyday progress of DSA in c++
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/rahi4403/DSA-progress/tree/master/1219-path-with-maximum-gold) |
 ## Two Pointers
 |  |
 | ------- |
