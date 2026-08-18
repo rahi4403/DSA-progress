@@ -247,4 +247,8 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rahi4403/DSA-progress/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
