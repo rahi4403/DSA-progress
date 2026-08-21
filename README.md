@@ -39,6 +39,7 @@ My everyday progress of DSA in c++
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rahi4403/DSA-progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/rahi4403/DSA-progress/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rahi4403/DSA-progress/tree/master/0231-power-of-two) |
@@ -256,6 +257,7 @@ My everyday progress of DSA in c++
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rahi4403/DSA-progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
