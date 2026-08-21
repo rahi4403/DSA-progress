@@ -2,7 +2,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         if(head==NULL){ //empty list 
-        return false;
+        return NULL;
         }
         ListNode* slow=head;
         ListNode* fast=head;
