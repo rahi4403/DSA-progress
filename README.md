@@ -18,6 +18,7 @@ My everyday progress of DSA in c++
 | [0342-power-of-four](https://github.com/rahi4403/DSA-progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/rahi4403/DSA-progress/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/rahi4403/DSA-progress/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/rahi4403/DSA-progress/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahi4403/DSA-progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahi4403/DSA-progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -164,6 +165,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/rahi4403/DSA-progress/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahi4403/DSA-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rahi4403/DSA-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -269,6 +271,7 @@ My everyday progress of DSA in c++
 | [0141-linked-list-cycle](https://github.com/rahi4403/DSA-progress/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/rahi4403/DSA-progress/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
