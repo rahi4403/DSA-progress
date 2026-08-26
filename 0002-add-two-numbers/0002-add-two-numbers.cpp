@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //NO REVERSE FUCNTION FOR THIS ONE,EVERYTHING ELSE SAME AS 445
     void insertAtTail(ListNode*& head, ListNode*& tail, int value) { //to create a new node and add it to the end of a LL
         ListNode* temp = new ListNode(value);//creating a new node
         if (head == NULL) {
