@@ -5,6 +5,7 @@ My everyday progress of DSA in c++
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahi4403/DSA-progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rahi4403/DSA-progress/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rahi4403/DSA-progress/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rahi4403/DSA-progress/tree/master/0066-plus-one) |
@@ -40,6 +41,7 @@ My everyday progress of DSA in c++
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahi4403/DSA-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rahi4403/DSA-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rahi4403/DSA-progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/rahi4403/DSA-progress/tree/master/0050-powx-n) |
@@ -265,6 +267,7 @@ My everyday progress of DSA in c++
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahi4403/DSA-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rahi4403/DSA-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rahi4403/DSA-progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahi4403/DSA-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
