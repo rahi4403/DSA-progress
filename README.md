@@ -26,6 +26,7 @@ My everyday progress of DSA in c++
 | [2235-add-two-integers](https://github.com/rahi4403/DSA-progress/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rahi4403/DSA-progress/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rahi4403/DSA-progress/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rahi4403/DSA-progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ My everyday progress of DSA in c++
 | [1920-build-array-from-permutation](https://github.com/rahi4403/DSA-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahi4403/DSA-progress/tree/master/1929-concatenation-of-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rahi4403/DSA-progress/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rahi4403/DSA-progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
