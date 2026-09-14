@@ -100,6 +100,7 @@ My everyday progress of DSA in c++
 | [0078-subsets](https://github.com/rahi4403/DSA-progress/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahi4403/DSA-progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
@@ -174,6 +175,7 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rahi4403/DSA-progress/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahi4403/DSA-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -298,4 +300,12 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
