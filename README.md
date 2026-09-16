@@ -101,6 +101,7 @@ My everyday progress of DSA in c++
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahi4403/DSA-progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rahi4403/DSA-progress/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rahi4403/DSA-progress/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rahi4403/DSA-progress/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rahi4403/DSA-progress/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ My everyday progress of DSA in c++
 | [0054-spiral-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rahi4403/DSA-progress/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/rahi4403/DSA-progress/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahi4403/DSA-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/rahi4403/DSA-progress/tree/master/0980-unique-paths-iii) |
@@ -176,6 +178,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahi4403/DSA-progress/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rahi4403/DSA-progress/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rahi4403/DSA-progress/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahi4403/DSA-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -243,6 +246,7 @@ My everyday progress of DSA in c++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rahi4403/DSA-progress/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/rahi4403/DSA-progress/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
@@ -304,6 +308,7 @@ My everyday progress of DSA in c++
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rahi4403/DSA-progress/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
