@@ -69,6 +69,7 @@ My everyday progress of DSA in c++
 | [0160-intersection-of-two-linked-lists](https://github.com/rahi4403/DSA-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rahi4403/DSA-progress/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/rahi4403/DSA-progress/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/rahi4403/DSA-progress/tree/master/0567-permutation-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rahi4403/DSA-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -111,6 +112,7 @@ My everyday progress of DSA in c++
 | [0268-missing-number](https://github.com/rahi4403/DSA-progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahi4403/DSA-progress/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/rahi4403/DSA-progress/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/rahi4403/DSA-progress/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/rahi4403/DSA-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahi4403/DSA-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rahi4403/DSA-progress/tree/master/0867-transpose-matrix) |
@@ -182,6 +184,7 @@ My everyday progress of DSA in c++
 | [0155-min-stack](https://github.com/rahi4403/DSA-progress/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rahi4403/DSA-progress/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rahi4403/DSA-progress/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/rahi4403/DSA-progress/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahi4403/DSA-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rahi4403/DSA-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -310,6 +313,7 @@ My everyday progress of DSA in c++
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahi4403/DSA-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rahi4403/DSA-progress/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/rahi4403/DSA-progress/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
